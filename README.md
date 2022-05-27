@@ -15,6 +15,6 @@
 
 ## Autores<br>
 
-| ![<img src="https://avatars.githubusercontent.com/u/83726646?v=4" width=115><br><sub>Irion Francisco da Silva</sub>](https://github.com/irion-silva) |
-| ------ |
+| [<img src="https://avatars.githubusercontent.com/u/83726646?v=4" width=115><br><sub>Irion Francisco da Silva</sub>](https://github.com/irion-silva) |
+| :---: |
     
