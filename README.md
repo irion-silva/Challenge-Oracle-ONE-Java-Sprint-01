@@ -20,7 +20,7 @@
 ```git clone https://github.com/irion-silva/Challenge-Oracle-ONE-Java-Sprint-01.git```
 
 (vai pedir seu usuário e senha do github)<br>
-Depois que terminar o clone, é só executar a classe ConversorDeMoedas.java
+Depois que terminar o clone, é só executar o arquivo ConversorDeMoedas.jar
 
 ## Autores<br>
 
